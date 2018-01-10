@@ -1,2 +1,8 @@
-# skype_linux_64
-It is small shell script that installs the latest version of skype for Linux. It is compiled from a website and compiled into a scirpt that you just need to run from the terminal to install.
+# Skype for Ubuntu - linux 64-bit
+It is small shell script that installs the latest version of Skype on Linux. This script is compiled from a website which you just need to run from the terminal to install.
+
+ Install using the following script
+ sudo bash skypeforlinux.sh
+ or
+ sudo sh skypeforlinux.sh
+ 
