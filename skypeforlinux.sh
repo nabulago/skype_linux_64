@@ -1,7 +1,7 @@
 #!/bin/sh
 # Source of the script
 #https://tecadmin.net/install-skype-on-ubuntu/#
-# Author: Rollermax
+# Author: rollermax/nabulago
 # found the code the website & compiled a shell file
 # to ease the installation
 # update & upgrade #
